@@ -1,0 +1,7 @@
+D:\C#\PooUsoStatic\PooUsoStatic\bin\Debug\PooUsoStatic.exe.config
+D:\C#\PooUsoStatic\PooUsoStatic\bin\Debug\PooUsoStatic.exe
+D:\C#\PooUsoStatic\PooUsoStatic\bin\Debug\PooUsoStatic.pdb
+D:\C#\PooUsoStatic\PooUsoStatic\obj\Debug\PooUsoStatic.csprojAssemblyReference.cache
+D:\C#\PooUsoStatic\PooUsoStatic\obj\Debug\PooUsoStatic.csproj.CoreCompileInputs.cache
+D:\C#\PooUsoStatic\PooUsoStatic\obj\Debug\PooUsoStatic.exe
+D:\C#\PooUsoStatic\PooUsoStatic\obj\Debug\PooUsoStatic.pdb

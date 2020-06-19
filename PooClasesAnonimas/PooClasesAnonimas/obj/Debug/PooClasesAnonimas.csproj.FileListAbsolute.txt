@@ -1,0 +1,6 @@
+D:\C#\PooClasesAnonimas\PooClasesAnonimas\bin\Debug\PooClasesAnonimas.exe.config
+D:\C#\PooClasesAnonimas\PooClasesAnonimas\bin\Debug\PooClasesAnonimas.exe
+D:\C#\PooClasesAnonimas\PooClasesAnonimas\bin\Debug\PooClasesAnonimas.pdb
+D:\C#\PooClasesAnonimas\PooClasesAnonimas\obj\Debug\PooClasesAnonimas.csproj.CoreCompileInputs.cache
+D:\C#\PooClasesAnonimas\PooClasesAnonimas\obj\Debug\PooClasesAnonimas.exe
+D:\C#\PooClasesAnonimas\PooClasesAnonimas\obj\Debug\PooClasesAnonimas.pdb

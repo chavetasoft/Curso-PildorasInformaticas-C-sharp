@@ -1,0 +1,7 @@
+D:\C#\PooLLamadasYClaseMath\PooLLamadasYClaseMath\bin\Debug\PooLLamadasYClaseMath.exe.config
+D:\C#\PooLLamadasYClaseMath\PooLLamadasYClaseMath\bin\Debug\PooLLamadasYClaseMath.exe
+D:\C#\PooLLamadasYClaseMath\PooLLamadasYClaseMath\bin\Debug\PooLLamadasYClaseMath.pdb
+D:\C#\PooLLamadasYClaseMath\PooLLamadasYClaseMath\obj\Debug\PooLLamadasYClaseMath.csprojAssemblyReference.cache
+D:\C#\PooLLamadasYClaseMath\PooLLamadasYClaseMath\obj\Debug\PooLLamadasYClaseMath.csproj.CoreCompileInputs.cache
+D:\C#\PooLLamadasYClaseMath\PooLLamadasYClaseMath\obj\Debug\PooLLamadasYClaseMath.exe
+D:\C#\PooLLamadasYClaseMath\PooLLamadasYClaseMath\obj\Debug\PooLLamadasYClaseMath.pdb

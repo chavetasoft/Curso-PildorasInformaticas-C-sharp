@@ -1,0 +1,7 @@
+D:\C#\EjercicioHerenciaPolimorfismo\EjercicioHerenciaPolimorfismo\bin\Debug\EjercicioHerenciaPolimorfismo.exe.config
+D:\C#\EjercicioHerenciaPolimorfismo\EjercicioHerenciaPolimorfismo\bin\Debug\EjercicioHerenciaPolimorfismo.exe
+D:\C#\EjercicioHerenciaPolimorfismo\EjercicioHerenciaPolimorfismo\bin\Debug\EjercicioHerenciaPolimorfismo.pdb
+D:\C#\EjercicioHerenciaPolimorfismo\EjercicioHerenciaPolimorfismo\obj\Debug\EjercicioHerenciaPolimorfismo.csprojAssemblyReference.cache
+D:\C#\EjercicioHerenciaPolimorfismo\EjercicioHerenciaPolimorfismo\obj\Debug\EjercicioHerenciaPolimorfismo.csproj.CoreCompileInputs.cache
+D:\C#\EjercicioHerenciaPolimorfismo\EjercicioHerenciaPolimorfismo\obj\Debug\EjercicioHerenciaPolimorfismo.exe
+D:\C#\EjercicioHerenciaPolimorfismo\EjercicioHerenciaPolimorfismo\obj\Debug\EjercicioHerenciaPolimorfismo.pdb

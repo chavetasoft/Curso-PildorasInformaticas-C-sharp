@@ -1,0 +1,7 @@
+D:\C#\AvisoTrafico\AvisoTrafico\bin\Debug\AvisoTrafico.exe.config
+D:\C#\AvisoTrafico\AvisoTrafico\bin\Debug\AvisoTrafico.exe
+D:\C#\AvisoTrafico\AvisoTrafico\bin\Debug\AvisoTrafico.pdb
+D:\C#\AvisoTrafico\AvisoTrafico\obj\Debug\AvisoTrafico.csprojAssemblyReference.cache
+D:\C#\AvisoTrafico\AvisoTrafico\obj\Debug\AvisoTrafico.csproj.CoreCompileInputs.cache
+D:\C#\AvisoTrafico\AvisoTrafico\obj\Debug\AvisoTrafico.exe
+D:\C#\AvisoTrafico\AvisoTrafico\obj\Debug\AvisoTrafico.pdb

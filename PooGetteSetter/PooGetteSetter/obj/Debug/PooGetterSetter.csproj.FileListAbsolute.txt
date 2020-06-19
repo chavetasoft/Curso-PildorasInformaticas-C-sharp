@@ -1,0 +1,7 @@
+D:\C#\PooGetteSetter\PooGetteSetter\bin\Debug\PooGetteSetter.exe.config
+D:\C#\PooGetteSetter\PooGetteSetter\bin\Debug\PooGetteSetter.exe
+D:\C#\PooGetteSetter\PooGetteSetter\bin\Debug\PooGetteSetter.pdb
+D:\C#\PooGetteSetter\PooGetteSetter\obj\Debug\PooGetterSetter.csprojAssemblyReference.cache
+D:\C#\PooGetteSetter\PooGetteSetter\obj\Debug\PooGetterSetter.csproj.CoreCompileInputs.cache
+D:\C#\PooGetteSetter\PooGetteSetter\obj\Debug\PooGetteSetter.exe
+D:\C#\PooGetteSetter\PooGetteSetter\obj\Debug\PooGetteSetter.pdb

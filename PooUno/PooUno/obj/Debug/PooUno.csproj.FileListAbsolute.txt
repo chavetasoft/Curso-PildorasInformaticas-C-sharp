@@ -1,0 +1,7 @@
+D:\C#\PooUno\PooUno\bin\Debug\PooUno.exe.config
+D:\C#\PooUno\PooUno\bin\Debug\PooUno.exe
+D:\C#\PooUno\PooUno\bin\Debug\PooUno.pdb
+D:\C#\PooUno\PooUno\obj\Debug\PooUno.csprojAssemblyReference.cache
+D:\C#\PooUno\PooUno\obj\Debug\PooUno.csproj.CoreCompileInputs.cache
+D:\C#\PooUno\PooUno\obj\Debug\PooUno.exe
+D:\C#\PooUno\PooUno\obj\Debug\PooUno.pdb

@@ -1,0 +1,7 @@
+D:\C#\PooEncapsulacion\PooEncapsulacion\bin\Debug\PooEncapsulacion.exe.config
+D:\C#\PooEncapsulacion\PooEncapsulacion\bin\Debug\PooEncapsulacion.exe
+D:\C#\PooEncapsulacion\PooEncapsulacion\bin\Debug\PooEncapsulacion.pdb
+D:\C#\PooEncapsulacion\PooEncapsulacion\obj\Debug\PooEncapsulacion.csprojAssemblyReference.cache
+D:\C#\PooEncapsulacion\PooEncapsulacion\obj\Debug\PooEncapsulacion.csproj.CoreCompileInputs.cache
+D:\C#\PooEncapsulacion\PooEncapsulacion\obj\Debug\PooEncapsulacion.exe
+D:\C#\PooEncapsulacion\PooEncapsulacion\obj\Debug\PooEncapsulacion.pdb

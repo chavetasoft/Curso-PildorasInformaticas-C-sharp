@@ -1,0 +1,6 @@
+D:\C#\PooAyudDeVisual\PooAyudDeVisual\obj\Debug\PooAyudDeVisual.csproj.CoreCompileInputs.cache
+D:\C#\PooAyudDeVisual\PooAyudDeVisual\bin\Debug\PooAyudDeVisual.exe.config
+D:\C#\PooAyudDeVisual\PooAyudDeVisual\bin\Debug\PooAyudDeVisual.exe
+D:\C#\PooAyudDeVisual\PooAyudDeVisual\bin\Debug\PooAyudDeVisual.pdb
+D:\C#\PooAyudDeVisual\PooAyudDeVisual\obj\Debug\PooAyudDeVisual.exe
+D:\C#\PooAyudDeVisual\PooAyudDeVisual\obj\Debug\PooAyudDeVisual.pdb

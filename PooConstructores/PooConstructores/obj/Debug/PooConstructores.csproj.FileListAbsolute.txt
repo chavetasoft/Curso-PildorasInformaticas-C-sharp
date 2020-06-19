@@ -1,0 +1,7 @@
+D:\C#\PooConstructores\PooConstructores\bin\Debug\PooConstructores.exe.config
+D:\C#\PooConstructores\PooConstructores\bin\Debug\PooConstructores.exe
+D:\C#\PooConstructores\PooConstructores\bin\Debug\PooConstructores.pdb
+D:\C#\PooConstructores\PooConstructores\obj\Debug\PooConstructores.csprojAssemblyReference.cache
+D:\C#\PooConstructores\PooConstructores\obj\Debug\PooConstructores.csproj.CoreCompileInputs.cache
+D:\C#\PooConstructores\PooConstructores\obj\Debug\PooConstructores.exe
+D:\C#\PooConstructores\PooConstructores\obj\Debug\PooConstructores.pdb

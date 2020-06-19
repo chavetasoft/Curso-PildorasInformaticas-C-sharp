@@ -1,0 +1,7 @@
+D:\C#\CondicionalIF\CondicionalIF\bin\Debug\CondicionalIF.exe.config
+D:\C#\CondicionalIF\CondicionalIF\bin\Debug\CondicionalIF.exe
+D:\C#\CondicionalIF\CondicionalIF\bin\Debug\CondicionalIF.pdb
+D:\C#\CondicionalIF\CondicionalIF\obj\Debug\CondicionalIF.csprojAssemblyReference.cache
+D:\C#\CondicionalIF\CondicionalIF\obj\Debug\CondicionalIF.csproj.CoreCompileInputs.cache
+D:\C#\CondicionalIF\CondicionalIF\obj\Debug\CondicionalIF.exe
+D:\C#\CondicionalIF\CondicionalIF\obj\Debug\CondicionalIF.pdb

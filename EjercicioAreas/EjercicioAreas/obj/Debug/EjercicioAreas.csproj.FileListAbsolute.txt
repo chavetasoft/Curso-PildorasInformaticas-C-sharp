@@ -1,0 +1,7 @@
+D:\C#\EjercicioAreas\EjercicioAreas\bin\Debug\EjercicioAreas.exe.config
+D:\C#\EjercicioAreas\EjercicioAreas\bin\Debug\EjercicioAreas.exe
+D:\C#\EjercicioAreas\EjercicioAreas\bin\Debug\EjercicioAreas.pdb
+D:\C#\EjercicioAreas\EjercicioAreas\obj\Debug\EjercicioAreas.csprojAssemblyReference.cache
+D:\C#\EjercicioAreas\EjercicioAreas\obj\Debug\EjercicioAreas.csproj.CoreCompileInputs.cache
+D:\C#\EjercicioAreas\EjercicioAreas\obj\Debug\EjercicioAreas.exe
+D:\C#\EjercicioAreas\EjercicioAreas\obj\Debug\EjercicioAreas.pdb

@@ -1,0 +1,14 @@
+C:\Users\Federico Vilar\source\repos\SintaxisBasica\SintaxisBasica\bin\Debug\SintaxisBasica.exe.config
+C:\Users\Federico Vilar\source\repos\SintaxisBasica\SintaxisBasica\bin\Debug\SintaxisBasica.exe
+C:\Users\Federico Vilar\source\repos\SintaxisBasica\SintaxisBasica\bin\Debug\SintaxisBasica.pdb
+C:\Users\Federico Vilar\source\repos\SintaxisBasica\SintaxisBasica\obj\Debug\SintaxisBasica.csprojAssemblyReference.cache
+C:\Users\Federico Vilar\source\repos\SintaxisBasica\SintaxisBasica\obj\Debug\SintaxisBasica.csproj.CoreCompileInputs.cache
+C:\Users\Federico Vilar\source\repos\SintaxisBasica\SintaxisBasica\obj\Debug\SintaxisBasica.exe
+C:\Users\Federico Vilar\source\repos\SintaxisBasica\SintaxisBasica\obj\Debug\SintaxisBasica.pdb
+D:\C#\SintaxisBasica\SintaxisBasica\bin\Debug\SintaxisBasica.exe.config
+D:\C#\SintaxisBasica\SintaxisBasica\bin\Debug\SintaxisBasica.exe
+D:\C#\SintaxisBasica\SintaxisBasica\bin\Debug\SintaxisBasica.pdb
+D:\C#\SintaxisBasica\SintaxisBasica\obj\Debug\SintaxisBasica.csprojAssemblyReference.cache
+D:\C#\SintaxisBasica\SintaxisBasica\obj\Debug\SintaxisBasica.csproj.CoreCompileInputs.cache
+D:\C#\SintaxisBasica\SintaxisBasica\obj\Debug\SintaxisBasica.exe
+D:\C#\SintaxisBasica\SintaxisBasica\obj\Debug\SintaxisBasica.pdb

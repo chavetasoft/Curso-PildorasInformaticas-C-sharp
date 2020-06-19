@@ -1,0 +1,7 @@
+D:\C#\EstructuraSwitch\EstructuraSwitch\bin\Debug\EstructuraSwitch.exe.config
+D:\C#\EstructuraSwitch\EstructuraSwitch\bin\Debug\EstructuraSwitch.exe
+D:\C#\EstructuraSwitch\EstructuraSwitch\bin\Debug\EstructuraSwitch.pdb
+D:\C#\EstructuraSwitch\EstructuraSwitch\obj\Debug\EstructuraSwitch.csprojAssemblyReference.cache
+D:\C#\EstructuraSwitch\EstructuraSwitch\obj\Debug\EstructuraSwitch.csproj.CoreCompileInputs.cache
+D:\C#\EstructuraSwitch\EstructuraSwitch\obj\Debug\EstructuraSwitch.exe
+D:\C#\EstructuraSwitch\EstructuraSwitch\obj\Debug\EstructuraSwitch.pdb

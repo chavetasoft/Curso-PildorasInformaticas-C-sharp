@@ -1,0 +1,7 @@
+D:\C#\BloqueFinally\BloqueFinally\bin\Debug\BloqueFinally.exe.config
+D:\C#\BloqueFinally\BloqueFinally\bin\Debug\BloqueFinally.exe
+D:\C#\BloqueFinally\BloqueFinally\bin\Debug\BloqueFinally.pdb
+D:\C#\BloqueFinally\BloqueFinally\obj\Debug\BloqueFinally.csprojAssemblyReference.cache
+D:\C#\BloqueFinally\BloqueFinally\obj\Debug\BloqueFinally.csproj.CoreCompileInputs.cache
+D:\C#\BloqueFinally\BloqueFinally\obj\Debug\BloqueFinally.exe
+D:\C#\BloqueFinally\BloqueFinally\obj\Debug\BloqueFinally.pdb

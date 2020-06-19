@@ -1,0 +1,7 @@
+D:\C#\BuclesWhile\BuclesWhile\bin\Debug\BuclesWhile.exe.config
+D:\C#\BuclesWhile\BuclesWhile\bin\Debug\BuclesWhile.exe
+D:\C#\BuclesWhile\BuclesWhile\bin\Debug\BuclesWhile.pdb
+D:\C#\BuclesWhile\BuclesWhile\obj\Debug\BuclesWhile.csprojAssemblyReference.cache
+D:\C#\BuclesWhile\BuclesWhile\obj\Debug\BuclesWhile.csproj.CoreCompileInputs.cache
+D:\C#\BuclesWhile\BuclesWhile\obj\Debug\BuclesWhile.exe
+D:\C#\BuclesWhile\BuclesWhile\obj\Debug\BuclesWhile.pdb

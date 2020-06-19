@@ -1,0 +1,7 @@
+D:\C#\DelegadosPredicadosLambdas\DelegadosPredicadosLambdas\bin\Debug\DelegadosPredicadosLambdas.exe.config
+D:\C#\DelegadosPredicadosLambdas\DelegadosPredicadosLambdas\bin\Debug\DelegadosPredicadosLambdas.exe
+D:\C#\DelegadosPredicadosLambdas\DelegadosPredicadosLambdas\bin\Debug\DelegadosPredicadosLambdas.pdb
+D:\C#\DelegadosPredicadosLambdas\DelegadosPredicadosLambdas\obj\Debug\DelegadosPredicadosLambdas.csproj.CoreCompileInputs.cache
+D:\C#\DelegadosPredicadosLambdas\DelegadosPredicadosLambdas\obj\Debug\DelegadosPredicadosLambdas.exe
+D:\C#\DelegadosPredicadosLambdas\DelegadosPredicadosLambdas\obj\Debug\DelegadosPredicadosLambdas.pdb
+D:\C#\DelegadosPredicadosLambdas\DelegadosPredicadosLambdas\obj\Debug\DelegadosPredicadosLambdas.csprojAssemblyReference.cache

@@ -1,0 +1,7 @@
+D:\C#\DelegadosPredicados\DelegadosPredicados\bin\Debug\DelegadosPredicados.exe.config
+D:\C#\DelegadosPredicados\DelegadosPredicados\bin\Debug\DelegadosPredicados.exe
+D:\C#\DelegadosPredicados\DelegadosPredicados\bin\Debug\DelegadosPredicados.pdb
+D:\C#\DelegadosPredicados\DelegadosPredicados\obj\Debug\DelegadosPredicados.csprojAssemblyReference.cache
+D:\C#\DelegadosPredicados\DelegadosPredicados\obj\Debug\DelegadosPredicados.csproj.CoreCompileInputs.cache
+D:\C#\DelegadosPredicados\DelegadosPredicados\obj\Debug\DelegadosPredicados.exe
+D:\C#\DelegadosPredicados\DelegadosPredicados\obj\Debug\DelegadosPredicados.pdb

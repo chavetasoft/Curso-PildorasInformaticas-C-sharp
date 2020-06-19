@@ -1,0 +1,7 @@
+D:\C#\ExprecionesRegulares2\ExprecionesRegulares2\bin\Debug\ExprecionesRegulares2.exe.config
+D:\C#\ExprecionesRegulares2\ExprecionesRegulares2\bin\Debug\ExprecionesRegulares2.exe
+D:\C#\ExprecionesRegulares2\ExprecionesRegulares2\bin\Debug\ExprecionesRegulares2.pdb
+D:\C#\ExprecionesRegulares2\ExprecionesRegulares2\obj\Debug\ExprecionesRegulares2.csprojAssemblyReference.cache
+D:\C#\ExprecionesRegulares2\ExprecionesRegulares2\obj\Debug\ExprecionesRegulares2.csproj.CoreCompileInputs.cache
+D:\C#\ExprecionesRegulares2\ExprecionesRegulares2\obj\Debug\ExprecionesRegulares2.exe
+D:\C#\ExprecionesRegulares2\ExprecionesRegulares2\obj\Debug\ExprecionesRegulares2.pdb

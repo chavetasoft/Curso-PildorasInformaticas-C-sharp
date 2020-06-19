@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema targetNamespace="http://tempuri.org/XMLSchema.xsd"
+    elementFormDefault="qualified"
+    xmlns="http://tempuri.org/XMLSchema.xsd"
+    xmlns:mstns="http://tempuri.org/XMLSchema.xsd"
+    xmlns:xs="http://www.w3.org/2001/XMLSchema"
+		   
+		   
+		   
+><DirectedGraph xmlns="http://schemas.microsoft.com/vs/2009/dgml">
+  <Nodes>
+    <Node Id="(@1 @2)" Visibility="Hidden" />
+    <Node Id="(@3 Namespace=Herencia Type=Program)" Category="CodeSchema_Class" CodeSchemaProperty_IsInternal="True" CommonLabel="Program" Icon="Microsoft.VisualStudio.Class.Internal" IsDragSource="True" Label="Program" SourceLocation="(Assembly=file:///D:/C#/Herencia/Herencia/Program.cs StartLineNumber=5 StartCharacterOffset=10 EndLineNumber=5 EndCharacterOffset=17)" />
+  </Nodes>
+  <Links>
+    <Link Source="(@1 @2)" Target="(@3 Namespace=Herencia Type=Program)" Category="Contains" />
+  </Links>
+  <Categories>
+    <Category Id="CodeSchema_Class" Label="Clase" BasedOn="CodeSchema_Type" Icon="CodeSchema_Class" />
+    <Category Id="CodeSchema_Type" Label="Tipo" Icon="CodeSchema_Class" />
+    <Category Id="Contains" Label="Contiene" Description="Indica si el origen del vínculo contiene el objeto de destino." IsContainment="True" />
+  </Categories>
+  <Properties>
+    <Property Id="CodeSchemaProperty_IsInternal" Label="Interno" Description="Marca para indicar que el método es 'Internal'." DataType="System.Boolean" />
+    <Property Id="CommonLabel" DataType="System.String" />
+    <Property Id="Icon" Label="Icono" DataType="System.String" />
+    <Property Id="IsContainment" DataType="System.Boolean" />
+    <Property Id="IsDragSource" Label="IsDragSource" Description="IsDragSource" DataType="System.Boolean" />
+    <Property Id="Label" Label="Etiqueta" Description="Etiqueta Displayable de un objeto Annotatable." DataType="System.String" />
+    <Property Id="SourceLocation" Label="Número de línea de inicio" DataType="Microsoft.VisualStudio.GraphModel.CodeSchema.SourceLocation" />
+    <Property Id="Visibility" Label="Visibilidad" Description="Define si un nodo del gráfico está visible o no." DataType="System.Windows.Visibility" />
+  </Properties>
+  <QualifiedNames>
+    <Name Id="Assembly" Label="Ensamblado" ValueType="Uri" />
+    <Name Id="File" Label="Archivo" ValueType="Uri" />
+    <Name Id="Namespace" Label="Espacio de nombres" ValueType="System.String" />
+    <Name Id="Type" Label="Tipo" ValueType="System.Object" />
+  </QualifiedNames>
+  <IdentifierAliases>
+    <Alias n="1" Uri="Assembly=file:///D:/C%2523/Herencia/Herencia/Herencia.csproj" />
+    <Alias n="2" Uri="File=file:///D:/C%2523/Herencia/Herencia/Program.cs" />
+    <Alias n="3" Uri="Assembly=file:///D:/C%2523/Herencia/Herencia/bin/Debug/Herencia.exe" />
+  </IdentifierAliases>
+</DirectedGraph>
+</xs:schema>

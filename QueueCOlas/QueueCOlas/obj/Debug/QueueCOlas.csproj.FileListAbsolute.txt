@@ -1,0 +1,7 @@
+D:\C#\QueueCOlas\QueueCOlas\bin\Debug\QueueCOlas.exe.config
+D:\C#\QueueCOlas\QueueCOlas\bin\Debug\QueueCOlas.exe
+D:\C#\QueueCOlas\QueueCOlas\bin\Debug\QueueCOlas.pdb
+D:\C#\QueueCOlas\QueueCOlas\obj\Debug\QueueCOlas.csprojAssemblyReference.cache
+D:\C#\QueueCOlas\QueueCOlas\obj\Debug\QueueCOlas.csproj.CoreCompileInputs.cache
+D:\C#\QueueCOlas\QueueCOlas\obj\Debug\QueueCOlas.exe
+D:\C#\QueueCOlas\QueueCOlas\obj\Debug\QueueCOlas.pdb

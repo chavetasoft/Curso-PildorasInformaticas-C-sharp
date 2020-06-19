@@ -1,0 +1,7 @@
+D:\C#\Propiertis\Propiertis\bin\Debug\Propiertis.exe.config
+D:\C#\Propiertis\Propiertis\bin\Debug\Propiertis.exe
+D:\C#\Propiertis\Propiertis\bin\Debug\Propiertis.pdb
+D:\C#\Propiertis\Propiertis\obj\Debug\Propiertis.csprojAssemblyReference.cache
+D:\C#\Propiertis\Propiertis\obj\Debug\Propiertis.csproj.CoreCompileInputs.cache
+D:\C#\Propiertis\Propiertis\obj\Debug\Propiertis.exe
+D:\C#\Propiertis\Propiertis\obj\Debug\Propiertis.pdb
